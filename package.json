@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Initial project",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnaldoagf/most-used-words.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Agnaldo Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnaldoagf/most-used-words/issues"
+  },
+  "homepage": "https://github.com/agnaldoagf/most-used-words#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
